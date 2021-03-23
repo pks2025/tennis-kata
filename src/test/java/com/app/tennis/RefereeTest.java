@@ -1,4 +1,4 @@
-package com.socgen.tennis;
+package com.app.tennis;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package com.socgen.tennis;
+package com.app.tennis;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
