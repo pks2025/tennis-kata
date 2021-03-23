@@ -1,4 +1,4 @@
-package com.socgen.tennis;
+package com.app.tennis;
 
 import java.util.Optional;
 import java.util.Scanner;
